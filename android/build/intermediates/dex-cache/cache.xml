@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_2736c19a5463f674b396315ebfa8f1192a93f410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_3560df70fe63bb40c479c46788b5b3560e388c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_916ef326c8b3892c01d765ab022ba4b176ba34af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_4fc64836d4f63cee986bcabea36e9c5a5af83441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_fe7e6eca1cd1e5ac6e05e08f5aeaeaa1ca135927.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_19cbba81f9c3c6b3472a13f362530ff15c85a551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/incident_app/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/incident_app-react-native-vector-icons-unspecified_c45741d92a2212cfca9c5867343165894080a3d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ad287830dfa224467d422593a585ffe73be86051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_c58f3da86fa903a8739889ade10b9476c5bb8a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/incident_app/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="beca3a29d7f67ed2242e46811ce303ec5417bb39">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/incident_app-react-native-image-picker-unspecified_26360f5765ac72e35308d80224e8b85856b6c46f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_65cab5e5338e270f837c2e41a606ee87f06fd60b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5616a526c52fe7878356252046fec3556851e437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_b0107fe43c191df4dc34261f20fd433b9271ff1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_cb4744e604f3cffc4ce18baaba7d8fcf43fee585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_ba5c196f76ce51e560760c2040cf4821a3c253fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_0c21a95c7b6a46c049e44e88572f8f5cdfc89c2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_e345202b0f613e4a07c7dad6e43d58b202806537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a04269398ca859863897384b8ef13f84ee1c9db0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_99328886eefd240c62952113a42caabedac0f0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_1e8b804b56bf950697da8fcf126d843133e675a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_42fa455ebd5c5a834582ccbb6fe0b8ec407811d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9eddf4ace82d55df8332e5899fef34947c94cacc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/hrishikeshchoudhari/Documents/react_apps/incident_app/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_bc3e9471894496e15a3b43f1ebc1c91347e7d0e6.jar" />
+    </item>
+
+</items>
